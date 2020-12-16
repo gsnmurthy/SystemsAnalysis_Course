@@ -6,4 +6,4 @@ Preferred citation" Murthy, G.S. 2020. Systems Anlysis for Sustainability: Biofu
 Happy Learning!
 Ganti S. Murthy, Professor, IIT Indore and Oregon State University
 # ज्ञानं प्रसारणाय, सत्यं आत्मशुद्धये 
-#(Knowledge is for transmitting and truth is for self realization)
+# (Knowledge is for transmitting and truth is for self realization)
