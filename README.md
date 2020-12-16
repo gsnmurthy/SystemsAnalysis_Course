@@ -1,6 +1,6 @@
 # Systems Analysis for Sustainability Course Repository. 
 # Namaste and Welcome!! 
-This course was developed by me at Oregon State University and Indian Instittue of Technology at Indore. The slides are provided to help you learn. 
+This course was developed by me at Oregon State University and Indian Institute of Technology at Indore. The slides are provided to help you learn. 
 Please feel free to use them as needed with proper acknowledgement. 
 Preferred citation" Murthy, G.S. 2020. Systems Anlysis for Sustainability: Biofuels and Bioproducts. Github Repository: https://github.com/gsnmurthy/SystemsAnalysis_Course"
 Happy Learning!
